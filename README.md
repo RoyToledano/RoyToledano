@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm a Computer Science Student
 - 🌱 I’m currently learning C programming 🔥🔥🔥
-- ⚡ Fun fact: I'm crazy good at FIFA ⚽⚽
+- ⚡ Interests: Soccer and Basketball ⚽🏀
 
 ### Connect with me:
 
