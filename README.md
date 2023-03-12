@@ -1,7 +1,7 @@
 # Hi there, I'm Roy Toeledano - Computer Science Student 👋 
 
 - 👨‍🎓 I'm a Computer Science Student
-- 🌱 I’m currently learning C programming 🔥🔥🔥
+- 🌱 I’m currently learning Java & C# programming 🔥🔥🔥
 - ⚡ Interests: Soccer and Basketball ⚽🏀
 
 ### Connect with me:
